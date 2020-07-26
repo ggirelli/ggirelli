@@ -11,6 +11,4 @@
   <a style="border-radius: 50%;" href="https://ggirelli.info/blog/" target="_blank" title="Filopoe">🚀 Blog</a>
 </p>
 
-<hr>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggirelli&hide=Smarty,HTML&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![GG's github stats](https://github-readme-stats.vercel.app/api?username=ggirelli&count_private=true&show_icons=true&line_height=27&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
