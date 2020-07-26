@@ -11,4 +11,4 @@
   <a style="border-radius: 50%;" href="https://ggirelli.info/blog/" target="_blank" title="Filopoe">🚀 Blog</a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggirelli&hide=Smarty,HTML,JavaScript&theme=radical) ![GG's github stats](https://github-readme-stats.vercel.app/api?username=ggirelli&count_private=true&show_icons=true&line_height=30&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggirelli&hide=Smarty,HTML,JavaScript&theme=radical) ![GG's github stats](https://github-readme-stats.vercel.app/api?username=ggirelli&count_private=true&show_icons=true&line_height=31&theme=radical)
