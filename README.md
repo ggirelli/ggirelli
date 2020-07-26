@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**ggirelli/ggirelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">
+  Hi there 👋<br />
+  🙋 Gabriele here!
+</h3>
+<p align="center">
+  <a style="border-radius: 50%;" href="https://twitter.com/GirelliGabriele" target="_blank" title="GirelliGabriele">Twitter</a> -
+  <a style="border-radius: 50%;" href="https://www.linkedin.com/in/ggirelli" target="_blank" title="ggirelli">LinkedIn</a> -
+  <a style="border-radius: 50%;" href="https://www.instagram.com/ggirelli" target="_blank" title="ggirelli">Instagram</a> -
+  <a style="border-radius: 50%;" href="https://scholar.google.se/citations?user=doYZ7JgAAAAJ" target="_blank" title="Google Scholar">Publications</a> -
+  <a style="border-radius: 50%;" href="https://ggirelli.info/blog/" target="_blank" title="Filopoe">Blog</a>
+</p>
