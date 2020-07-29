@@ -1,6 +1,6 @@
 <h2 align="center">
   Hi there 👋<br />
-  🙋 Gabriele here!
+  Gabriele here!
 </h2>
 <p align="center">
   <!-- replace emojis+text with svgs --> 
