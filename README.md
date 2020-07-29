@@ -1,6 +1,6 @@
 <h2 align="center">
   Hi there 👋<br />
-  Gabriele here!
+  <img src="https://www.webfx.com/tools/emoji-cheat-sheet/graphics/emojis/squirrel.png" width=30px" /> Gabriele here!
 </h2>
 <p align="center">
   <!-- replace emojis+text with svgs --> 
