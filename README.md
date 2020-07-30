@@ -24,6 +24,7 @@
             I trained as a Biotech, through my studies:
             (2009, 2012) BS in Biomolecular Science and Technology @ University of Trento
             (2012, 2014) MS in Cellular and Molecular Biotechnology @ University of Trento
+            (2015, 2021) PhD studies @ Karolinska Institutet / Science for Life Laboratory
 
             I also interned in a few labs:
             (2012, 2012) Arosio lab @ Sezione di Trento, IBF / CNR
@@ -40,6 +41,7 @@
 
             In my free time, I love to sketch (digital art, classical art),
             and my favorite media are: Watercolors, Alcohol markers, Brush pen, Dip pen, Pencil.
+  
 
 ```
 Short CV generated with:
