@@ -42,7 +42,7 @@
             and my favorite media are: Watercolors, Alcohol markers, Brush pen, Dip pen, Pencil.
 
 ```
-Generated with the following command. Python3 code in [this Gist](https://gist.githubusercontent.com/ggirelli/4f26ced5333e4082b969b56923426125/raw/97956203674004fc05083ca3d830c4ec95b47cc0/short_cv.py).
+Generated with the following command. Python3 code in [this Gist](https://gist.githubusercontent.com/ggirelli/4f26ced5333e4082b969b56923426125/).
 ```bash
 curl -s https://gist.githubusercontent.com/ggirelli/4f26ced5333e4082b969b56923426125/raw/97956203674004fc05083ca3d830c4ec95b47cc0/short_cv.py | python3
 ```
