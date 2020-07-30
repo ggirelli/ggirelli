@@ -7,6 +7,8 @@
   <a style="border-radius: 50%;" href="https://ggirelli.info/blog/" target="_blank" title="Filopoe">🚀 Blog</a>
 </p>
 
+---
+
 ```
 
             Hi there! My name is Gabriele Girelli!
@@ -44,8 +46,10 @@
   
 
 ```
-Short CV generated with:
+
+---
+
+Short CV generated using the `MyShortCV` Python3 class in [this Gist](https://gist.githubusercontent.com/ggirelli/4f26ced5333e4082b969b56923426125/) with the following command:
 ```bash
 curl -s https://gist.githubusercontent.com/ggirelli/4f26ced5333e4082b969b56923426125/raw/ | python3
 ```
-`MyShortCV` Python3 class in [this Gist](https://gist.githubusercontent.com/ggirelli/4f26ced5333e4082b969b56923426125/).
