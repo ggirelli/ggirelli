@@ -10,7 +10,6 @@
 ---
 
 ```
-
             Hi there! My name is Gabriele Girelli!
             I am originally from Verona (Italy),
             but I am currently based in Stockholm (Sweden)
@@ -23,15 +22,16 @@
             - computational_oncology
             - bioimaging
 
-            I trained as a Biotech, through my studies:
+            I trained in Biotech and Bioinformatics, through my studies:
             (2009, 2012) BS in Biomolecular Science and Technology @ University of Trento
             (2012, 2014) MS in Cellular and Molecular Biotechnology @ University of Trento
             (2015, 2021) PhD studies @ Karolinska Institutet / Science for Life Laboratory
 
-            I also interned in a few labs:
+            I also worked in a few labs:
             (2012, 2012) Arosio lab @ Sezione di Trento, IBF / CNR
             (2014, 2014) Quackenbush lab @ Dana-Farber Cancer Institute, Boston
             (2014, 2015) Demichelis lab @ CIBIO, University of Trento
+            (2015, 2021) BiCro lab @ Karolinska Institutet / Science for Life Laboratory
 
             As a bioinformagician, I am currently learning to program
             in Julia, and my favorite languages are:
@@ -43,7 +43,6 @@
 
             In my free time, I love to sketch (digital art, classical art),
             and my favorite media are: Watercolors, Alcohol markers, Brush pen, Dip pen, Pencil.
-
 
 ```
 
