@@ -42,7 +42,8 @@
             and my favorite media are: Watercolors, Alcohol markers, Brush pen, Dip pen, Pencil.
 
 ```
-Generated with the following command. Python3 code in [this Gist](https://gist.githubusercontent.com/ggirelli/4f26ced5333e4082b969b56923426125/).
+Short CV generated with:
 ```bash
 curl -s https://gist.githubusercontent.com/ggirelli/4f26ced5333e4082b969b56923426125/raw/ | python3
 ```
+`MyShortCV` Python3 class in [this Gist](https://gist.githubusercontent.com/ggirelli/4f26ced5333e4082b969b56923426125/).
