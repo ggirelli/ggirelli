@@ -1,3 +1,4 @@
+<h2 align="center">:wave: Hi, you can call me "GG" :wink:</h2>
 <p align="center">
   <!-- replace emojis+text with svgs --> 
   <a style="border-radius: 50%;" href="https://twitter.com/GirelliGabriele" target="_blank" title="GirelliGabriele">🐥 Twitter</a> |
@@ -8,6 +9,6 @@
 </p>
 
 ```bash
-# To see my resume, run:
+# To see my short resume, run:
 curl -s https://gist.githubusercontent.com/ggirelli/4f26ced5333e4082b969b56923426125/raw/ | python3
 ```
