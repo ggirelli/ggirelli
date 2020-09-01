@@ -1,4 +1,4 @@
-<h2 align="center">:wave: Hi, you can call me "GG" :wink:</h2>
+<h2 align="center">:wave: Hi there! You can call me "GG" :wink:</h2>
 <p align="center">
   <!-- replace emojis+text with svgs --> 
   <a style="border-radius: 50%;" href="https://twitter.com/GirelliGabriele" target="_blank" title="GirelliGabriele">🐥 Twitter</a> |
