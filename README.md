@@ -8,9 +8,11 @@
   <a style="border-radius: 50%;" href="https://ggirelli.info/blog/" target="_blank" title="Filopoe">🚀 Blog</a>
 </p>
 
-<p>
- To leave feedback, visit the `issues` tab of the repository you are interested in! If that is not possible (e.g., the repository is *archived*), [fill this form](https://forms.clickup.com/f/2c60w-204/TVXTTTQHC5M3NZMRYB) instead!
-</p>
+<hr>
+
+To leave feedback, visit the `issues` tab of the repository you are interested in! If that is not possible (e.g., the repository is *archived*), [fill this form](https://forms.clickup.com/f/2c60w-204/TVXTTTQHC5M3NZMRYB) instead!
+
+<hr>
 
 ```bash
 # To see my short resume, run:
