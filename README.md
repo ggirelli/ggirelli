@@ -11,7 +11,8 @@
 <hr>
 
 <p><small>
- To leave feedback, visit the <code>issues</code> tab of the repository you are interested in! If that is not possible (e.g., the repository is <i>archived</i>), <a href="https://forms.clickup.com/f/2c60w-204/TVXTTTQHC5M3NZMRYB">fill this form</a> instead!
+ To leave feedback, visit the <code>issues</code> tab of the repository you are interested in!<br/>
+ If that is not possible (e.g., the repository is <i>archived</i>), <a href="https://forms.clickup.com/f/2c60w-204/TVXTTTQHC5M3NZMRYB">fill this form</a> instead!
 </small></p>
 
 <hr>
