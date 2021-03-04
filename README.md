@@ -8,6 +8,10 @@
   <a style="border-radius: 50%;" href="https://ggirelli.info/blog/" target="_blank" title="Filopoe">🚀 Blog</a>
 </p>
 
+<p>
+ To leave feedback, visit the `issues` tab of the repository you are interested in! If that is not possible (e.g., the repository is *archived*), [fill this form](https://forms.clickup.com/f/2c60w-204/TVXTTTQHC5M3NZMRYB) instead!
+</p>
+
 ```bash
 # To see my short resume, run:
 curl -s https://gist.githubusercontent.com/ggirelli/4f26ced5333e4082b969b56923426125/raw/ | python3
