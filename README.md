@@ -15,6 +15,6 @@ curl -s https://gist.githubusercontent.com/ggirelli/4f26ced5333e4082b969b5692342
 
 <p><small>
  To leave feedback, visit the <code>issues</code> tab of the repository you are interested in!<br/>
- If that is not possible (e.g., the repository is <i>archived</i>), <a href="https://forms.clickup.com/f/2c60w-204/TVXTTTQHC5M3NZMRYB">fill this form</a> instead!
+ If that is not possible (e.g., the repository is <i>archived</i>), you can find [here](https://ggirelli.info) other ways to reach me!
 </small></p>
 
