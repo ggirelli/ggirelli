@@ -1,7 +1,11 @@
-<h2 align="center">:wave: Hi there! You can call me "GG" :wink:</h2>
+<!-- markdownlint-disable MD033 MD041 -->
+
+<h2 align="center">
+ 👋 Hi there! You can call me "GG" 😉
+</h2>
+
 <p align="center">
-  <!-- replace emojis+text with svgs --> 
-  <a style="border-radius: 50%;" href="https://twitter.com/GirelliGabriele" target="_blank" title="GirelliGabriele">🐥 Twitter</a> |
+  <a style="border-radius: 50%;" href="https://genomic.social/@ggirelli" target="_blank" title="GirelliGabriele">🐘 Mastodon</a> |
   <a style="border-radius: 50%;" href="https://www.linkedin.com/in/ggirelli" target="_blank" title="ggirelli">👔 LinkedIn</a> |
   <a style="border-radius: 50%;" href="https://www.instagram.com/ggirelli" target="_blank" title="ggirelli">🎨 Instagram</a> |
   <a style="border-radius: 50%;" href="https://scholar.google.se/citations?user=doYZ7JgAAAAJ" target="_blank" title="Google Scholar">🎓 Publications</a> |
@@ -13,9 +17,14 @@
 curl -s https://gist.githubusercontent.com/ggirelli/4f26ced5333e4082b969b56923426125/raw/ | python3
 ```
 
-<p><small>
- To leave feedback, visit the <code>issues</code> tab of the repository you are interested in!<br/>
- If that is not possible (e.g., the repository is <i>archived</i>), you can find <a href="https://ggirelli.info" target="_blank", title="Infosite">here</a> other ways to reach me!
-</small></p>
+<p>
+  <small>
+    To leave feedback, visit the <code>issues</code> tab of the repository you are interested in!<br/>
+    If that is not possible, send an email to <code>issue at ggirelli dot info</code>.<br/>
+    If a repository is archived, that means I do not support it anymore.
+  </small>
+</p>
 
-Other ways to get in touch: <a rel="me" href="https://genomic.social/@ggirelli">Mastodon</a>, <a rel="me" href="https://keybase.io/gggirelli">KeyBase</a>
+You can find more ways to get in touch on my virtual [business card]!
+
+[business card]: https://ggirelli.info
