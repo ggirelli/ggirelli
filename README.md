@@ -28,7 +28,7 @@ curl -s https://gist.githubusercontent.com/ggirelli/4f26ced5333e4082b969b5692342
 You can find more ways to get in touch on my virtual [business card]!
 
 And here are some stats:  
-![](https://nirzak-streak-stats.vercel.app/?user=ggirelli&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=ggirelli&theme=dark&hide_border=false&include_all_commits=True&count_private=True)
+![](https://nirzak-streak-stats.vercel.app/?user=ggirelli&theme=dark&hide_border=false)
 
 [business card]: https://ggirelli.info
