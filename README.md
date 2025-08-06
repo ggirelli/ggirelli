@@ -35,17 +35,17 @@ from gg.types.personal import Url
 from gg.types.time import FromYear, ToYear
 from gg.types.work import Employer, JobTitle
 
+type Location = tuple[City, Province, Country]
+
 
 class ItsMeGG:
     """Some info on myself."""
+
     pronouns: tuple[Pronoun, ...] = (Pronoun.HE, Pronoun.HIM)
     indie_website: Url = "https://ggirelli.info"
     spirit_animal: str = "Caffeinated squirrel ☕🐿️"
-    hometown: tuple[City, Province, Country] = (
-        "Bussolengo",
-        "Verona",
-        "Italia",
-    )
+    hometown: Location = ("Bussolengo", "Verona", "Italia")
+    lives_in: Location = ("Sundbyberg", "Stockholm", "Sverige")
 
     # Work and Ed
     education: tuple[
@@ -62,7 +62,7 @@ class ItsMeGG:
     tools_and_tech: tuple[str, ...] = (
         "bazel",
         "protobuf",
-        "uv",
+        "astral-sh/uv",
         "GitHub Actions",
     )
     ask_me_about: tuple[str, ...] = (
@@ -71,11 +71,18 @@ class ItsMeGG:
         "spatial transcriptomics.",
     )
 
-    # Free time and misc.
+    # Free time
     hobbies: tuple[str, ...] = ("sketching", "reading", "cooking", "blogging")
-    current_focus: str = (
-        "Having fun with an old film camera from the early 60s!"
+    in_love_with: tuple[str, ...] = (
+        "horror movies",
+        "sci-fi books",
+        "DiscWorld series",
+        "Isaac Asimov",
+        "Stephen King",
     )
+
+    # Last touches
+    currently: str = "Having fun with an old film camera from the early 60s!"
     fun_fact: str = "I am hypophantasic, but enjoy drawing!✏️"
 ```
 
