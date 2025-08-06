@@ -12,11 +12,6 @@
   <a style="border-radius: 50%;" href="https://ggirelli.info/blog/" target="_blank" title="Filopoe">🚀 Blog</a>
 </p>
 
-```bash
-# To see my short resume, run:
-curl -s https://gist.githubusercontent.com/ggirelli/4f26ced5333e4082b969b56923426125/raw/ | python3
-```
-
 <p>
   <small>
     To leave feedback, visit the <code>issues</code> tab of the repository you are interested in!<br/>
@@ -27,8 +22,62 @@ curl -s https://gist.githubusercontent.com/ggirelli/4f26ced5333e4082b969b5692342
 
 You can find more ways to get in touch on my virtual [business card]!
 
-And here are some stats:  
+Here are some stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=ggirelli&theme=dark&hide_border=false&include_all_commits=True&count_private=True)
 ![](https://nirzak-streak-stats.vercel.app/?user=ggirelli&theme=dark&hide_border=false)
+
+And a short story:
+```python
+from gg.enums import Pronoun
+from gg.types.education import EdLevel, Institute, Subject
+from gg.types.geography import City, Country, Province
+from gg.types.personal import Url
+from gg.types.time import FromYear, ToYear
+from gg.types.work import Employer, JobTitle
+
+
+class ItsMeGG:
+    """Some info on myself."""
+    pronouns: tuple[Pronoun, ...] = (Pronoun.HE, Pronoun.HIM)
+    indie_website: Url = "https://ggirelli.info"
+    spirit_animal: str = "Caffeinated squirrel ☕🐿️"
+    hometown: tuple[City, Province, Country] = (
+        "Bussolengo",
+        "Verona",
+        "Italia",
+    )
+
+    # Work and Ed
+    education: tuple[
+        tuple[FromYear, ToYear, EdLevel, Subject, Institute, Country], ...
+    ] = (
+        (2009, 2012, "BS", "Biotechnology", "Università di Trento", "Italia"),
+        (2012, 2014, "MS", "Biotechnology", "Università di Trento", "Italia"),
+        (2016, 2021, "PhD", "Bioinformatics", "Karolinska Institute", "Sweden"),
+    )
+    jobs: tuple[tuple[FromYear, ToYear, Employer, JobTitle]] = (
+        (2022, 2025, "10X Genomics Sweden AB", "Sr. Computational Biologist"),
+    )
+    code: tuple[str, ...] = ("Python", "R", "Rust", "Go")
+    tools_and_tech: tuple[str, ...] = (
+        "bazel",
+        "protobuf",
+        "uv",
+        "GitHub Actions",
+    )
+    ask_me_about: tuple[str, ...] = (
+        "Genome architecture",
+        "good coding practices",
+        "spatial transcriptomics.",
+    )
+
+    # Free time and misc.
+    hobbies: tuple[str, ...] = ("sketching", "reading", "cooking", "blogging")
+    current_focus: str = (
+        "Having fun with an old film camera from the early 60s!"
+    )
+    fun_fact: str = "I am hypophantasic, but enjoy drawing!✏️"
+```
 
 [business card]: https://ggirelli.info
