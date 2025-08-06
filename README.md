@@ -24,7 +24,6 @@ You can find more ways to get in touch on my virtual [business card]!
 
 Here are some stats:
 
-![](https://github-readme-stats.vercel.app/api?username=ggirelli&theme=dark&hide_border=false&include_all_commits=True&count_private=True)
 ![](https://nirzak-streak-stats.vercel.app/?user=ggirelli&theme=dark&hide_border=false)
 
 And a short story:
