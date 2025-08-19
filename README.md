@@ -83,6 +83,7 @@ class ItsMeGG:
 
     # Last touches
     currently: str = "Having fun with an old film camera from the early 60s!"
+    trying_out: str = "The jujutsu version control system!"
     fun_fact: str = "I am hypophantasic, but enjoy drawing!✏️"
 ```
 
