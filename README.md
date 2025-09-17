@@ -32,7 +32,7 @@ from gg.enums import Pronoun
 from gg.types.education import EdLevel, Institute, Subject
 from gg.types.geography import City, Country, Province
 from gg.types.personal import Url
-from gg.types.time import FromYear, ToYear
+from gg.types.time import FromYear, Present, ToYear
 from gg.types.work import Employer, JobTitle
 
 type Location = tuple[City, Province, Country]
@@ -56,6 +56,7 @@ class ItsMeGG:
         (2016, 2021, "PhD", "Bioinformatics", "Karolinska Institute", "Sweden"),
     )
     jobs: tuple[tuple[FromYear, ToYear, Employer, JobTitle]] = (
+        (2025, Present, "Cubase Bio AB", "Sr. Computational Biologist"),
         (2022, 2025, "10X Genomics Sweden AB", "Sr. Computational Biologist"),
     )
     code: tuple[str, ...] = ("Python", "R", "Rust", "Go")
