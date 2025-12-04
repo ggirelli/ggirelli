@@ -51,9 +51,9 @@ class ItsMeGG:
     education: tuple[
         tuple[FromYear, ToYear, EdLevel, Subject, Institute, Country], ...
     ] = (
-        (2009, 2012, "BS", "Biotechnology", "Università di Trento", "Italia"),
-        (2012, 2014, "MS", "Biotechnology", "Università di Trento", "Italia"),
         (2016, 2021, "PhD", "Bioinformatics", "Karolinska Institute", "Sweden"),
+        (2012, 2014, "MS", "Biotechnology", "Università di Trento", "Italia"),
+        (2009, 2012, "BS", "Biotechnology", "Università di Trento", "Italia"),
     )
     jobs: tuple[tuple[FromYear, ToYear, Employer, JobTitle]] = (
         (2025, Present, "Cubase Bio AB", "Sr. Computational Biologist"),
@@ -83,7 +83,7 @@ class ItsMeGG:
     )
 
     # Last touches
-    currently: str = "Having fun with an old film camera from the early 60s!"
+    currently: str = "Doing the Advent of Code 2025!"
     trying_out: str = "The jujutsu version control system!"
     fun_fact: str = "I am hypophantasic, but enjoy drawing!✏️"
 ```
