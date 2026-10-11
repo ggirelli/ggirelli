@@ -13,79 +13,20 @@
 </p>
 
 <p>
+ Computational biologist by day, indie developer by curiosity.
+ Exploring the intersection of science, open-source software,
+ and creative projects—from game development to tools that make
+ life a little more interesting. Building things, learning
+ along the way, and sharing what I can. Check out my
+ <a href="https://ggirelli.info">virtual business card</a> for more ways to reach me.
+</p>
+
+<hr>
+
+<p>
   <small>
     To leave feedback, visit the <code>issues</code> tab of the repository you are interested in!<br/>
     If that is not possible, send an email to <code>issue at ggirelli dot info</code>.<br/>
     If a repository is archived, that means I do not support it anymore.
   </small>
 </p>
-
-You can find more ways to get in touch on my virtual [business card]!
-
-Here are some stats:
-
-![](https://nirzak-streak-stats.vercel.app/?user=ggirelli&theme=dark&hide_border=false)
-
-And a short story:
-```python
-from gg.enums import Pronoun
-from gg.types.education import EdLevel, Institute, Subject
-from gg.types.geography import City, Country, Province
-from gg.types.personal import Url
-from gg.types.time import FromYear, Present, ToYear
-from gg.types.work import Employer, JobTitle
-
-type Location = tuple[City, Province, Country]
-
-
-class ItsMeGG:
-    """Some info on myself."""
-
-    pronouns: tuple[Pronoun, ...] = (Pronoun.HE, Pronoun.HIM)
-    indie_website: Url = "https://ggirelli.info"
-    spirit_animal: str = "Caffeinated squirrel ☕🐿️"
-    hometown: Location = ("Bussolengo", "Verona", "Italia")
-    lives_in: Location = ("Sundbyberg", "Stockholm", "Sverige")
-
-    # Work and Ed
-    education: tuple[
-        tuple[FromYear, ToYear, EdLevel, Subject, Institute, Country], ...
-    ] = (
-        (2016, 2021, "PhD", "Bioinformatics", "Karolinska Institute", "Sweden"),
-        (2012, 2014, "MS", "Biotechnology", "Università di Trento", "Italia"),
-        (2009, 2012, "BS", "Biotechnology", "Università di Trento", "Italia"),
-    )
-    jobs: tuple[tuple[FromYear, ToYear, Employer, JobTitle]] = (
-        (2025, Present, "Cubase Bio AB", "Sr. Computational Biologist"),
-        (2022, 2025, "10X Genomics Sweden AB", "Sr. Computational Biologist"),
-    )
-    code: tuple[str, ...] = ("Python", "R", "Rust", "Go")
-    tools_and_tech: tuple[str, ...] = (
-        "bazel",
-        "protobuf",
-        "astral-sh/uv",
-        "GitHub Actions",
-    )
-    ask_me_about: tuple[str, ...] = (
-        "Genome architecture",
-        "good coding practices",
-        "spatial transcriptomics.",
-    )
-
-    # Free time
-    hobbies: tuple[str, ...] = ("sketching", "reading", "cooking", "blogging")
-    in_love_with: tuple[str, ...] = (
-        "horror movies",
-        "sci-fi books",
-        "DiscWorld series",
-        "Isaac Asimov",
-        "Stephen King",
-    )
-
-    # Last touches
-    currently: str = "Doing the Advent of Code 2025!"
-    trying_out: str = "The jujutsu version control system!"
-    fun_fact: str = "I am hypophantasic, but enjoy drawing!✏️"
-```
-
-[business card]: https://ggirelli.info
